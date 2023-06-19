@@ -1,0 +1,29 @@
+c:\users\cakir\documents\visual studio 2015\Projects\atyarisiUyg\bin\Debug\atyarisiUyg.exe.config
+c:\users\cakir\documents\visual studio 2015\Projects\atyarisiUyg\bin\Debug\atyarisiUyg.exe
+c:\users\cakir\documents\visual studio 2015\Projects\atyarisiUyg\bin\Debug\atyarisiUyg.pdb
+c:\users\cakir\documents\visual studio 2015\Projects\atyarisiUyg\obj\Debug\atyarisiUyg.Form1.resources
+c:\users\cakir\documents\visual studio 2015\Projects\atyarisiUyg\obj\Debug\atyarisiUyg.Properties.Resources.resources
+c:\users\cakir\documents\visual studio 2015\Projects\atyarisiUyg\obj\Debug\atyarisiUyg.csproj.GenerateResource.Cache
+c:\users\cakir\documents\visual studio 2015\Projects\atyarisiUyg\obj\Debug\atyarisiUyg.exe
+c:\users\cakir\documents\visual studio 2015\Projects\atyarisiUyg\obj\Debug\atyarisiUyg.pdb
+c:\users\cakir\documents\visual studio 2015\Projects\atyarisiUyg\obj\Debug\atyarisiUyg.csprojResolveAssemblyReference.cache
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\c# uyg\atyarisiUyg\bin\Debug\atyarisiUyg.exe.config
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\c# uyg\atyarisiUyg\obj\Debug\atyarisiUyg.exe
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\c# uyg\atyarisiUyg\obj\Debug\atyarisiUyg.pdb
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\c# uyg\atyarisiUyg\bin\Debug\atyarisiUyg.exe
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\c# uyg\atyarisiUyg\bin\Debug\atyarisiUyg.pdb
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\c# uyg\atyarisiUyg\obj\Debug\atyarisiUyg.csprojResolveAssemblyReference.cache
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\c# uyg\atyarisiUyg\obj\Debug\atyarisiUyg.Form1.resources
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\c# uyg\atyarisiUyg\obj\Debug\atyarisiUyg.Properties.Resources.resources
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\c# uyg\atyarisiUyg\obj\Debug\atyarisiUyg.csproj.GenerateResource.Cache
+C:\Users\cakir\Desktop\github\HorseRace\bin\Debug\atyarisiUyg.exe.config
+C:\Users\cakir\Desktop\github\HorseRace\bin\Debug\atyarisiUyg.exe
+C:\Users\cakir\Desktop\github\HorseRace\bin\Debug\atyarisiUyg.pdb
+C:\Users\cakir\Desktop\github\HorseRace\obj\Debug\atyarisiUyg.csproj.AssemblyReference.cache
+C:\Users\cakir\Desktop\github\HorseRace\obj\Debug\atyarisiUyg.csproj.SuggestedBindingRedirects.cache
+C:\Users\cakir\Desktop\github\HorseRace\obj\Debug\atyarisiUyg.Form1.resources
+C:\Users\cakir\Desktop\github\HorseRace\obj\Debug\atyarisiUyg.Properties.Resources.resources
+C:\Users\cakir\Desktop\github\HorseRace\obj\Debug\atyarisiUyg.csproj.GenerateResource.cache
+C:\Users\cakir\Desktop\github\HorseRace\obj\Debug\atyarisiUyg.csproj.CoreCompileInputs.cache
+C:\Users\cakir\Desktop\github\HorseRace\obj\Debug\atyarisiUyg.exe
+C:\Users\cakir\Desktop\github\HorseRace\obj\Debug\atyarisiUyg.pdb
